@@ -1096,6 +1096,10 @@ Expressions
         a friendly IRC robot that can perform any number of useful and useless tasks.
       </li>
       <li>
+        <b>github</b>'s <a href="https://atom.io">Atom Editor</a>,
+        a text editor written in coffeescript with a whole community of coffeescript packages
+      </li>
+      <li>
         <b>sstephenson</b>'s <a href="http://pow.cx/">Pow</a>,
         a zero-configuration Rack server, with comprehensive annotated source.
       </li>
